@@ -18,7 +18,7 @@ POST to: api/ipaddrs<br>
 
 Update:<br>
 POST to: api/ipaddrs/2 <br>
-{ "id": 2, "ipaddress": "1.1.1.2", "dns_check": null, "load_balancer_check": null, "ping_test": "True", "last_update": "2015-08-14T20:46:11Z" }
+{ "id": 2, "ipaddress": "1.1.1.2", "check_dns": null, "check_load_balancer": null, "check_ping": "True", "last_update": "2015-08-14T20:46:11Z" }
 
 hostnames:
 
